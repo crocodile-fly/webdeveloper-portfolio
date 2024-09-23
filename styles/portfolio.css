@@ -1,0 +1,5 @@
+/* nav related styles */
+ul {
+    display: flex;
+    flex-direction: row;
+}
