@@ -173,5 +173,6 @@ main{
 }
 .resume-container{
     display: flex;
+    flex-direction: row;
 }
  
