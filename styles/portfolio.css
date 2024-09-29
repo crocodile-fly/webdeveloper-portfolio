@@ -189,7 +189,33 @@ hr {
 /* footer style */
  footer{
     display: flex;
+    gap: 117px;
     background: #FFF8F3;
     padding: 130px 230px;
     margin-top: 130px;
+ }
+ .footer-column{
+    width: 50%;
+ }
+ .social-link{
+    margin-right: 40px;
+ }
+
+ .contact input[type="text"], .contact input[type="email"],
+textarea {
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    background: #FFF;
+    border: 0;
+    width: 100%;
+ }
+ .section-description{
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
  }
